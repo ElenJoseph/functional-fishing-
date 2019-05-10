@@ -78,7 +78,7 @@ The following requirement must be met in order to complete the assignment succes
 > IMPORTANT Don't forget to test your game. Get a friend to play. **It is easy to make mistakes, and testing is how we find them.**
 
 ## Example
-The following video of Functional Fishing can be found on [YouTube](https://youtu.be/lPpVAdW4q6Q)
+An example video of Functional Fishing can be found on [YouTube](https://youtu.be/lPpVAdW4q6Q)
 
 ## Submission
 Once completed. submit the JavaScript file with the name, *functional-fishing.js*, to **Functional Fishing** assignment on Brightspace.
