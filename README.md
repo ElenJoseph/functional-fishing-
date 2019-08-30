@@ -80,5 +80,21 @@ The following requirement must be met in order to complete the assignment succes
 ## Example
 An example video of Functional Fishing can be found on [YouTube](https://youtu.be/lPpVAdW4q6Q)
 
+## Rubric
+
+| Task | Points |
+| ---  | :---:  | 
+| Successfully creates the `fire()` function | 2 |
+| Successfully creates the `fish()` function | 2 |
+| Successfully creates the `bait()` function | 1 |
+| Successfully creates the `wood()` function  | 1 |
+| Successfully creates the `eat()` function  | 2 |
+| Successfully creates the `inventory()` function | 2 |
+| **Total** | **10** | 
+
 ## Submission
-Once completed. submit the JavaScript file with the name, *functional-fishing.js*, to **Functional Fishing** assignment on Brightspace.
+When the assignment is completed, follow the steps below to submit for grading:
+
+1. Create a commit with the message "Completes the Functional Fishing assignment"
+2. Push all commits to GitHub.
+3. Submit the URL to your GitHub repository to the **Functional Fishing** assignment on BrightSpace.  
